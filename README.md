@@ -47,11 +47,11 @@ Análise exploratória (EDA) de um dataset de vendas de supermercado (`supermark
 **Links úteis:**
 
 * 📄 Detalhes: `analise_supermercado/README.md`
-* 🐍 Código (Notebook): `analise_supermercado/analise_supermercado.ipynb`
+* 🐍 Código: `analise_supermercado/analise_supermercado.py`
 
 ---
 
-## ➕ Próximos Projetos (WIP)
+## ➕ Próximos Projetos 
 
 * 
 * 
