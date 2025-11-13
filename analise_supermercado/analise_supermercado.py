@@ -34,7 +34,7 @@ def analyze_supermarket_data(file_path: str) -> None:
         print(f"Erro ao ler o arquivo: {e}")
         return
 
-    # Tentativa robusta de converter colunas esperadas
+
     # Converter Date para datetime
     if 'Date' in df.columns:
         try:
