@@ -19,11 +19,7 @@ import pandas as pd
 
 
 def analyze_supermarket_data(file_path: str) -> None:
-    """Carrega o arquivo CSV e realiza as 6 análises com saída para stdout.
-
-    Args:
-        file_path: Caminho para o arquivo CSV (por exemplo: analise_supermercado/dados/supermarket_sales.csv)
-    """
+    """Carrega o dataset e realiza as 6 análises solicitadas."""
     if not os.path.exists(file_path):
         print(f"Erro: arquivo não encontrado em '{file_path}'")
         return
